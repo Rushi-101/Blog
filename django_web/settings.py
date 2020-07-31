@@ -26,7 +26,7 @@ SECRET_KEY = 'kzy*m*r@7ssp%-z9z(mm11d!wnsg8_243tuwt1xj)u)wh4wsv2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rushiblogapp.herokuapp.com']
+ALLOWED_HOSTS = ['rushikeshblogapp.herokuapp.com']
 
 
 # Application definition
